@@ -12,9 +12,10 @@ The dataset used for this project is sourced from Kaggle. You can find the datas
 - matplotlib
 
 ## Project Steps
-## Data Loading and Preparation
-## Code
+
+
 ```python
+# Data Loading and Preparation
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -94,3 +95,10 @@ plt.show()
 a = sns.countplot(data=data, x='EthnicGroup')
 a.bar_label(a.containers[0])
 plt.show()
+```
+
+## Results
+- Key findings from the data analysis, such as the impact of study time on grades, etc.
+
+## Conclusion
+Based on the analysis, recommendations are made to improve student performance in future exams.
