@@ -4,7 +4,7 @@
 This project involves analyzing student results using Python. The goal is to uncover patterns and insights that can help improve student performance.
 
 ## Dataset
-The dataset used for this project is sourced from Kaggle. You can find the dataset [here]([https://www.kaggle.com/](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores/data?select=Expanded_data_with_more_features.csv)).
+The dataset used for this project is sourced from Kaggle. You can find the dataset[here](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores/data?select=Expanded_data_with_more_features.csv).
 
 ## Libraries Used
 - numpy
