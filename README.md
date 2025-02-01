@@ -1,15 +1,20 @@
 # Student Result Analysis Project
 
 ## Introduction
-This project involves analyzing student results using Python. The goal is to uncover patterns and insights that can help improve student performance.
+This project involves analyzing student results using Python to uncover patterns and insights that can help improve student performance. The dataset used for this project is sourced from Kaggle and includes various student attributes such as gender, parental education, ethnic group, and scores in subjects like Mathematics, Reading, and Writing.
+
 
 ## Dataset
 The dataset used for this project is sourced from Kaggle. You can find the dataset[here](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores/data?select=Expanded_data_with_more_features.csv).
 
 ## Libraries Used
-- numpy
-- pandas
-- matplotlib
+The following Python libraries are used for data processing and visualization:
+
+--numpy – for numerical operations
+--pandas – for data manipulation and analysis
+--matplotlib – for data visualization
+--seaborn – for advanced statistical plotting
+
 
 ## Project Steps
 
