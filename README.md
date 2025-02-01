@@ -10,10 +10,10 @@ The dataset used for this project is sourced from Kaggle. You can find the datas
 ## Libraries Used
 The following Python libraries are used for data processing and visualization:
 
---numpy – for numerical operations
---pandas – for data manipulation and analysis
---matplotlib – for data visualization
---seaborn – for advanced statistical plotting
+- **numpy** – for numerical operations
+- **pandas** – for data manipulation and analysis
+- **matplotlib** – for data visualization
+- **seaborn** – for advanced statistical plotting
 
 
 ## Project Steps
